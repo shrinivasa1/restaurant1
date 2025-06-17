@@ -1,0 +1,115 @@
+/* .navigation-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navigation-menu li {
+    margin: 0px 20px;
+  }
+  .navigation-menu li a {
+    text-decoration: none;
+    color: white;
+  }
+  .active {
+    color: goldenrod !important;
+    font-weight: bold !important;
+    margin: 20px;
+  }
+
+  .container {
+    height: calc(35vh - 35px);
+    background-color: #c2b3af;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+  }
+  
+  .arrowContainer {
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    top: 0;
+    bottom: 0;
+    margin-right:40vh;
+    margin-top:15vh;
+    cursor: pointer;
+    z-index:10;
+    color: rgb(1, 8, 8);
+
+  }
+
+  .arrowContainerr {
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    top: 0;
+    bottom: 0;
+    margin-left:70vh;
+    margin-top:15vh;
+    cursor: pointer;
+    z-index:10;
+    color: rgb(1, 8, 8);
+
+  }
+  
+  .wrapper {
+    width: 300vw;
+    height: 100%;
+    display:flex;
+    align-content: center;
+   transition: all 1.5s ease-in-out ;
+  }
+  
+  .imgContainer {
+    width: 100vw;
+    height: 100%;
+    position: relative;
+    margin-left:80vh;
+    margin-top:3.5vh; 
+    
+  }
+  
+ 
+  
+  .mobile-navigation {
+    list-style: none;
+  }
+  .mobile-navigation li {
+    margin-top: 20px;
+  }
+  .mobile-navigation li a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: black;
+  } */
+
+  .navigation-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navigation-menu li {
+    margin: 0px 20px;
+  }
+  .navigation-menu li a {
+    text-decoration: none;
+    color: white;
+  }
+  .active {
+    color: goldenrod !important;
+    font-weight: bold !important;
+  }
+  /* mobile view */
+  .mobile-navigation {
+    list-style: none;
+  }
+  .mobile-navigation li {
+    margin-top: 20px;
+  }
+  .mobile-navigation li a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: black;
+  }
